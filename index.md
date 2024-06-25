@@ -24,7 +24,7 @@ I'm currently looking for Ph.D position. If you are interested in any aspect of 
 - Large Language Models
 - Data Mining
 - Spatial-temporal data
-- [My latest research proposal (demo)](https://caihanlin.com/file/RP.pdf)🔗
+- [My latest research proposal (demo)](https://im-jn.github.io/file/RP.pdf)🔗
 
 In the past year, I was engaged in AI spatial-temporal big data research, under the supervision of a PostDoc research fellow Dr. Haitao Yuan from Prof. Cong Gao’s group in NTU.
 I am still actively exploring new research directions, currently working on a research that incorporates reinforcement learning to construct LLMs’ prompt agent. Although my previous work primarily focused on AI within the realm of Data Mining I am eager to explore other areas of AI during my Ph.D. studies. 
