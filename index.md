@@ -4,20 +4,16 @@ layout: page
 
 ## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://im-jn.github.io/images/photo_life.jpg" class="floatpic" width="300" height="400">
 
-Here is **Nan Jiang (Oliver, 姜南)**.
-
-I am a post-graduate student in Beijing University of Posts and Telecommunications (BUPT), majored in computer science and technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
+Here is **Nan Jiang (Oliver, 姜南)**. I am a post-graduate student in Beijing University of Posts and Telecommunications (BUPT), majored in computer science and technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
 
 I'm currently looking for Ph.D position. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *jn_work[at]outlook[dot]com*
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2022 - June 2025:** BUPT's State Key Laboratory of Networking and Switching Technology, China
+- **Sep 2018 - June 2022:** Beijing University of Posts and Telecommunications(BUPT), China
 
 ---
 
