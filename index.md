@@ -6,7 +6,7 @@ layout: page
 <br>
 <img src="https://im-jn.github.io/images/photo_life.jpg" class="floatpic" width="250" height="300">
 
-Here is **Nan Jiang (Oliver, 姜南)**. I am a post-graduate student in Beijing University of Posts and Telecommunications (BUPT), majored in computer science and technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
+Here is **Nan Jiang (Oliver, 姜南)**. I am a postgraduate student at Beijing University of Posts and Telecommunications (BUPT), majoring in Computer Science and Technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
 
 I'm currently looking for Ph.D position. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *jn_work[at]outlook[dot]com*
 
@@ -39,7 +39,7 @@ I am still actively exploring new research directions, currently working on a re
 - **Dec 2023：** Awarded BUPT First-Class Scholarship
 - **August 2023：** Won "Internet+" College Student Innovation and Entrepreneurship Competition Award
 - **Dec 2022：** Won third price on Huawei Developer Competition
-- **Jun 2022：** Started my postgraduate life at BUPT, with a high grade in the postgraduate entrence examination.
+- **Jun 2022：** Began my postgraduate studies at BUPT after achieving a high score in the entrance examination.
 
 ---
 
