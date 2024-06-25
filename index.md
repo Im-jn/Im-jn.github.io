@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://im-jn.github.io/images/photo_life.jpg" class="floatpic" width="300" height="400">
+<img src="https://im-jn.github.io/images/photo_life.jpg" class="floatpic" width="250" height="300">
 
 Here is **Nan Jiang (Oliver, 姜南)**. I am a post-graduate student in Beijing University of Posts and Telecommunications (BUPT), majored in computer science and technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
 
