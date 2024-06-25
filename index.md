@@ -8,9 +8,9 @@ layout: page
 
 Here is **Nan Jiang (Oliver, 姜南)**. I am a post-graduate student in Beijing University of Posts and Telecommunications (BUPT), majored in computer science and technology. I'm studying in the State Key Laboratory of Networking and Switching Technology, supervised by [Prof. Shangguang Wang](https://www.researchgate.net/profile/Shangguang-Wang) (Associate Dean, School of CS) and [Dr. Haitao Yuan](https://yuanhaitao.github.io/) (NTU, research fellow).
 
-I'm currently looking for Ph.D position. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at 
-- *jn_work[at]outlook[dot]com*
+I'm currently looking for Ph.D position. If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *jn_work[at]outlook[dot]com*
 
+<br>
 ## Academic Background
 
 - **Sep 2022 - June 2025:** BUPT's State Key Laboratory of Networking and Switching Technology, China
