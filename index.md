@@ -40,9 +40,10 @@ I am still actively exploring new research directions, currently working on a re
 - **August 2023：** Won "Internet+" College Student Innovation and Entrepreneurship Competition Award
 - **Dec 2022：** Won third price on Huawei Developer Competition
 - **Jun 2022：** Started my postgraduate life at BUPT, with a high grade in the postgraduate entrence examination.
+
 ---
 
 ## Appendix
 
-- [CV (renewed on June 25)](https://im-jn.github.io/file/Nanjiang_Resume.pdf)
-- [Postgraduate transcript](https://im-jn.github.io/file/transcript.pdf)
+- [**CV** (renewed on June 25)](https://im-jn.github.io/file/Nanjiang_Resume.pdf)
+- [**Postgraduate transcript**](https://im-jn.github.io/file/transcript.pdf)
