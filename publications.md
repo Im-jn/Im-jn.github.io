@@ -14,9 +14,15 @@ title: Publications
 
 ---
 
+## On-going Research
+
+See detailed information in my CV [linked here!](https://im-jn.github.io/file/NanJiang_Resume.pdf)
+
+---
+
 ## Work Project
 
-- Developed an integrated display platform for our research group called the TianSuan Constellation with Vue Freamework. This platform showcases the real-time orbital positions of TianSuan Constellation satellites, as well as the various application deployment modules. I personally built and maintained the entire system and have participated in several external presentations on behalf of the school and our research group. Can be accessed via link [Tiansuan Platform](http://tle.tiansuan.site/#/)
+- **Developed an integrated display platform for the TianSuan Constellation**(the satellite constellation launched by our research group). This platform showcases the real-time orbital positions of TianSuan Constellation satellites, as well as the various application deployment modules. I personally built and maintained the entire system and have participated in several external presentations on behalf of the school and our research group. Can be accessed via link [Tiansuan Platform](http://tle.tiansuan.site/#/)
 <br>
 
 - Participated in the **VMware development team** for the virtual machine front-end program and assisted in resolving a critical issue in the client application. Acquired proficiency in the company’s front-end development framework(Angular) and implemented the use of the Opus audio decoder to standardize front-end audio decoding strategies. Eventually developed a solution to resolve audio stuttering issues of the virtual machine front-end program on macOS, greatly enhancing the user audio playback experience.

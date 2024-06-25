@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Nov 2023：BUPT First-Class Scholarship. Awarded for outstanding academic performance and moral acts during the academic year of post-graduate study.
+- Nov 2023：**BUPT First-Class Scholarship.** Awarded for outstanding academic performance and moral acts during the academic year of post-graduate study.
 - Nov 2022：BUPT Second-Class Scholarship. Awarded for outstanding academic performance and moral acts during the academic year of post-graduate study. 
 
 ## Competitions (Selected)
