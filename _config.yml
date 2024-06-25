@@ -12,7 +12,7 @@ owner:
   email: jn_work@outlook.com
   cv: https://im-jn.github.io/file/NanJiang_Resume.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
+  # twitter: jingnn178801
   github: 2857451652
   linkedin: Nan Jiang
   scholar: https://scholar.google.com/citations?user=XiSYzFoAAAAJ&hl=en
@@ -37,8 +37,8 @@ links:
     url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
+  - title: Blogs
+    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
