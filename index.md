@@ -45,5 +45,5 @@ I am still actively exploring new research directions, currently working on a re
 
 ## Appendix
 
-- [**CV** (renewed on June 25)](https://im-jn.github.io/file/Nanjiang_Resume.pdf)
+- [**CV** (renewed on June 25)](https://im-jn.github.io/file/NanJiang_Resume.pdf)
 - [**Postgraduate transcript**](https://im-jn.github.io/file/transcript.pdf)
