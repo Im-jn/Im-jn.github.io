@@ -21,9 +21,10 @@ I am currently seeking a Ph.D. position. If you find my profile interesting, I w
 ## Research Interests
 
 - Deep Learning
-- Large Language Models
 - Data Mining
 - Spatial-temporal data
+- Large Language Models
+- Knowledge Graph
 - [My latest research proposal (demo)](https://im-jn.github.io/file/RP.pdf)🔗
 
 In the past year, I was engaged in AI spatial-temporal big data research, under the supervision of a PostDoc research fellow Dr. Haitao Yuan from Prof. Cong Gao’s group in NTU.
